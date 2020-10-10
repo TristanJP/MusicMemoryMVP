@@ -1,0 +1,27 @@
+{
+    "Toccata and Fugue in D minor BWV 565": {
+        "short_name": "Toccata and Fugue",
+        "composer": "Bach",
+        "link": "https://www.youtube.com/watch?v=ho9rZjlsyYY"
+    },
+    "Eine kleine Nachtmusik (Serenade No. 13 for strings in G major) K. 525": {
+        "short_name": "Eine kleine Nachtmusik",
+        "composer": "Mozart",
+        "link": "https://www.youtube.com/watch?v=FCi2u265wxQ"
+    },
+    "Fur Elise WoO 59": {
+        "short_name": "Fur Elise",
+        "composer": "Beethoven",
+        "link": "https://www.youtube.com/watch?v=_mVW8tgGY_w"
+    },
+    "Canon and Gigue in D": {
+        "short_name": "Pachelbel's Canon",
+        "composer": "Pachelbel",
+        "link": "https://www.youtube.com/watch?v=NlprozGcs80"
+    },
+    "Piano Sonata No. 11: Alla Turca": {
+        "short_name": "Rondo Alla Turca",
+        "composer": "Mozart",
+        "link": "https://www.youtube.com/watch?v=quxTnEEETbo"
+    }
+}
