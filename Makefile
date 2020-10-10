@@ -15,8 +15,8 @@ clean:
 	find . -name '__pycache__' -exec rm -fr {} +
 
 dist: clean
-	python3 setup.py sdist
-	python3 setup.py bdist_wheel
+	python3.9 setup.py sdist
+	python3.9 setup.py bdist_wheel
 	ls -l dist
 
 .PHONY: docs
@@ -31,7 +31,7 @@ format:
 
 .PHONY: install
 install: clean
-	python3 setup.py install
+	python3.9 setup.py install
 
 .PHONY: lint
 lint:
@@ -39,4 +39,4 @@ lint:
 
 .PHONY: test
 test:
-	python3 setup.py test
+	python3.9 setup.py test

@@ -27,7 +27,7 @@ setup(
     version='0.0.1',
     description='Music Memory Game MVP',
     long_description=README,
-    license=LICENSE
+    license=LICENSE,
     author='Tristan Perkins',
     author_email='trisperk@hotmail.com',
     url='https://github.com/TristanJP/MusicMemoryMVP',
@@ -39,7 +39,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'music_memory_play=music_memory.blah:_main',
+            'music_memory_play=music_memory.music_memory:_main',
         ]
     },
     include_package_data=True,
